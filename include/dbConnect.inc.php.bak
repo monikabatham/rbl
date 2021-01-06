@@ -1,0 +1,10 @@
+<?php 
+$server = "localhost";
+$db_user = "brandsro_testu"; 
+$db_pass = "test@user";  
+$db_name = "brandsro_testdb";
+if(!($db = @mysql_connect($server, $db_user, $db_pass)))
+die("Couldn't connect to the database1.");
+if(!@mysql_select_db($db_name, $db))
+die("Database doesn't exist!");
+?>

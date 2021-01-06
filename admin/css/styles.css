@@ -1,0 +1,29 @@
+@media (min-width: 1200px) {
+
+}
+@media (min-width:768px){
+.dl-horizontal dt{text-align:left !important;}
+}
+.sidebar {background-color: #fff;}
+.nav-sidebar {margin-top: 20px; margin-bottom: 20px; margin-left: 0px;}
+.nav-sidebar a {padding-right: 20px; padding-left: 22px !important; color: #000; font-size:12px}
+.nav-sidebar .active a,
+.nav-sidebar a:hover,
+.nav-sidebar a:focus {color: #267bda; background-color: #e4f5ff !important;}
+.page-title{padding:8px 20px; background:#267bda;}
+.page-title span{border-left:4px solid #FFF; padding-right:8px}
+.page-header{border:none; margin:24px 0px 14px 0px}
+.jobApplication-header {height:18px;color:#7fa91e;font:bold 15px Arial, Helvetica, sans-serif;border-left:4px solid #7fa91e;padding-left:10px;margin:20px 0 10px 0 }
+.jobApplication-outer-area {border:1px solid #d7d7d7; margin:0; padding:15px;}
+.form-text {text-align:left !important;color:#010101; font:normal 12px Arial, Helvetica, sans-serif;}
+.mandatory{font:normal 11px Arial, Helvetica, sans-serif; color:#727272}
+.form-sub-hed{font:normal 14px Arial, Helvetica, sans-serif; color:#0261a5 !important}
+.job-title{ color:#337ab7}
+.src-panel{ background:#0261a5 !important;}
+.job-manager-h{padding:8px 20px; background:#e4e4e4; color:#267bda}
+.job-bottom-text {color: #7fa91e;font-family: Arial,Helvetica,sans-serif;font-size: 13px;font-weight: bold;}
+.thankyou-text{ color:#337ab7 !important; padding:20px 20px 100px 20px}
+.career-banner {border:1px solid #d7d7d7;}
+
+.form-sub-hed-bg{ background:#e4f5ff; padding:8px 10px; margin:20px 0px !important; border-radius:4px}
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {color: #267bda;}
